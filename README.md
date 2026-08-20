@@ -41,7 +41,7 @@ Once installed and running, complete the following steps:
 - 100% of events are correctly classified.
 - 0 duplicate events appear in analytics.
 - A corrected event is accepted on a replay and is counted exactly once.
-- Given 500 events per second, the system should handle the throughput and correctly classifly them all.
+- Given 500 events per second for 60 seconds, the system classifies every event without losing any.
 
 
 <!-- LICENSE -->
